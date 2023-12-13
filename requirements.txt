@@ -1,8 +1,8 @@
 streamlit
+seaborn
 numpy
 pandas
 matplotlib
 scikit-learn
 tensorflow
 keras
-seaborn
